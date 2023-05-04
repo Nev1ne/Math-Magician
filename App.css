@@ -58,3 +58,29 @@ body {
     background-color: gray;
     color: black;
   }
+  .light-gray:hover {
+    background-color: white;
+  }
+  
+  .orange {
+    background-color: orange;
+  }
+  
+  .orange:hover {
+    background-color: white;
+    color: orange;
+  }
+  
+  .zero {
+    grid-column: 1 / span 2;
+    border-radius: 25px;
+    place-content: unset;
+    align-items: center;
+    padding-left: 2rem;
+  }
+  
+  p {
+    margin: 2rem 0;
+    font-size: 1.2rem;
+  }
+  
