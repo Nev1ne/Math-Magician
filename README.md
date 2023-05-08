@@ -26,10 +26,6 @@ and their navigation using React Router. The final objective was to write and ru
 
 [Heroku deploy.](https://math-magicians-react-web.herokuapp.com)
 
-## Setup
-
-- Clone the project `git clone git@github.com:IjayAbby/math-magicians.git` on a Terminal
-
 ## Usage
 
 - Run `npm install` on a Terminal to install the modules
@@ -45,7 +41,7 @@ and their navigation using React Router. The final objective was to write and ru
 
 👤 **Nev1ne**
 
-- GitHub: [@Nev1ne](https://github.com/IjayAbby)
+- GitHub: [@Nev1ne](https://github.com/Nev1ne)
 
 
 ## 🤝 Contributing
