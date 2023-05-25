@@ -1,7 +1,7 @@
-# Maths-Wizard
+# Math-Wizard
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math Magicians
+# Math Wizard
 
 > Single Page Application that displays a web-based calculator.
 
